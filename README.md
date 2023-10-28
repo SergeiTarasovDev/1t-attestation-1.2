@@ -2,7 +2,7 @@
 
 ## Пояснения к решению
 
-* Файл **init/usr/IT_vacancies_full.csv.gz** содержит очищенные данные
+* Файл **init/source/IT_vacancies_full.csv.gz** содержит очищенные данные
 * Все таблицы создаются в **init.sql**
 
 ### 1. Staging слой
